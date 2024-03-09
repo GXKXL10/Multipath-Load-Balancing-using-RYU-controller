@@ -76,10 +76,4 @@ Algorithm will
 <hr style=\"border:0.5px solid gray\"> </hr>
 <br>
 
-## Examples: Other Network Topologies 
 
-<p align="left">
-  <img src="./Topology Diagrams/topology_diagram3.png" width="300" alt="example network topology">
-  <img src="./Topology Diagrams/topology_diagram4.png" width="350" alt="example network topology">
-  <img src="./Topology Diagrams/topology_diagram2.png" width="400" alt="example network topology">
-</p>
