@@ -4,9 +4,7 @@
 Method of managing incoming traffic by distributing and sharing load fairly among multiple routes from source to destination hosts
 
 <br>
-<p align="left">
-  <img src="./Topology Diagrams/topology_diagram1.png" width="500" alt="example network topology">
-</p>
+
 
 
 This network has 4 different paths available from host1 to host8. 
